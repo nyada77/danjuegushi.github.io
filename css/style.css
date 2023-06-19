@@ -2309,8 +2309,9 @@ body {
 
 @font-face{
     font-family:"FZZJ-LJDXKJW";
-    src:url("")
+    src:url("FZZJ-LJDXKJW.ttf")
 }
+
 .end {
     font-family: "FZZJ-LJDXKJW";
     font-size: 30px;
