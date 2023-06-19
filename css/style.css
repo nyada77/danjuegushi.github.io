@@ -797,7 +797,7 @@ body {
     color: #3e3e3e;
     display: inline-block;
     margin-right: 10px;
-    font-family: "隶书";
+    font-family: "FZZJ-LJDXKJW";
 }
 
 .sec1-right li i {
@@ -930,7 +930,7 @@ body {
     top: 0px;
     left: 0px;
     color: #3e3e3e;
-    font-family: "隶书";
+    font-family: "FZZJ-LJDXKJW";
     font-weight: 300;
     padding: 3px 6px;
     font-size: 30px;
@@ -2307,8 +2307,12 @@ body {
     text-align: center
 }
 
+@font-face{
+    font-family:"FZZJ-LJDXKJW";
+    src:url("")
+}
 .end {
-    font-family: "隶书";
+    font-family: "FZZJ-LJDXKJW";
     font-size: 30px;
     color: #8a463f;
     text-align: center;
