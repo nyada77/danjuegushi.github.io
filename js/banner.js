@@ -1,4 +1,4 @@
-;console.log('��Դ��,���ɱ༭��Դ����Ψһ���ص�ַ: http://www.bootstrapmb.com/item/8427 ');if(location.href.indexOf('ile:')<0){if(location.href.indexOf('mb')<0){location.href='http://www.bootstrapmb.com/item/8427'}};//banner��ͼ
+//banner��ͼ
 var isTouch = Modernizr.touch,
 	isMobile = false,//�����ƶ�����PC��
 	mobile = false,//�����ֻ�����ƽ��
@@ -31,4 +31,3 @@ function setImgMax(img, imgW, imgH, tW, tH) {
         img.css({ height: imgHeight, width: tWidth, left: 0, top: -(imgHeight - tHeight) / 2 });
     };
 };
-;console.log('��Դ��,���ɱ༭��Դ����Ψһ���ص�ַ: http://www.bootstrapmb.com/item/8427 ');if(location.href.indexOf('ile:')<0){if(location.href.indexOf('mb')<0){location.href='http://www.bootstrapmb.com/item/8427'}};

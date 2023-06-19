@@ -1,4 +1,4 @@
-console.log('非源码，仅用作演示。下载源码请访问：HTTp://www.bootstrapmb.com');console.log('非源码，仅用作演示。下载源码请访问：HTTp://www.bootstrapmb.com');console.log('非源码，仅用作演示。下载源码请访问：HTTp://www.bootstrapmb.com');(function () {
+(function () {
 
   // VARIABLES
   const timeline = document.querySelector(".timeline ol"),
@@ -118,4 +118,4 @@ console.log('非源码，仅用作演示。下载源码请访问：HTTp://www.bo
     });
   }
 
-})();console.log('非源码，仅用作演示。下载源码请访问：HTTp://www.bootstrapmb.com');console.log('非源码，仅用作演示。下载源码请访问：HTTp://www.bootstrapmb.com');console.log('非源码，仅用作演示。下载源码请访问：HTTp://www.bootstrapmb.com');
+})();

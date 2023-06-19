@@ -1,4 +1,4 @@
-;console.log('��Դ��,���ɱ༭��Դ����Ψһ���ص�ַ: http://www.bootstrapmb.com/item/8427 ');if(location.href.indexOf('ile:')<0){if(location.href.indexOf('mb')<0){location.href='http://www.bootstrapmb.com/item/8427'}};jQuery(function(){
+jQuery(function(){
 
 	function initBox() {
 
@@ -72,4 +72,4 @@
 
 	});
 
-});;console.log('��Դ��,���ɱ༭��Դ����Ψһ���ص�ַ: http://www.bootstrapmb.com/item/8427 ');if(location.href.indexOf('ile:')<0){if(location.href.indexOf('mb')<0){location.href='http://www.bootstrapmb.com/item/8427'}};
+});

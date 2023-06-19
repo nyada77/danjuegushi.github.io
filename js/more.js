@@ -1,4 +1,4 @@
-;console.log('��Դ��,���ɱ༭��Դ����Ψһ���ص�ַ: http://www.bootstrapmb.com/item/8427 ');if(location.href.indexOf('ile:')<0){if(location.href.indexOf('mb')<0){location.href='http://www.bootstrapmb.com/item/8427'}};$(function(){
+$(function(){
 	//	��Ƶ����
 	$('<div class="mask-bg2"></div>)').appendTo($("body"));
 		var maskWidth=$(document).width();
@@ -111,4 +111,3 @@
 			
 	
 })
-;console.log('��Դ��,���ɱ༭��Դ����Ψһ���ص�ַ: http://www.bootstrapmb.com/item/8427 ');if(location.href.indexOf('ile:')<0){if(location.href.indexOf('mb')<0){location.href='http://www.bootstrapmb.com/item/8427'}};
