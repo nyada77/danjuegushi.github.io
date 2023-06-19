@@ -2308,12 +2308,12 @@ body {
 }
 
 @font-face{
-    font-family:"FZZJ-LJDXKJW";
-    src:url("FZZJ-LJDXKJW.ttf")
+    font-family:"FZCYJW";
+    src:url("FZCYJW.TTF")
 }
 
 .end {
-    font-family: "FZZJ-LJDXKJW";
+    font-family: "FZCYJW";
     font-size: 30px;
     color: #8a463f;
     text-align: center;
