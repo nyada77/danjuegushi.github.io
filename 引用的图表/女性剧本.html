@@ -134,7 +134,7 @@ let currentOption = (option = pieOption);
 setInterval(function () {
   currentOption = currentOption === pieOption ? parliamentOption : pieOption;
   myChart.setOption(currentOption);
-}, 2000);
+}, 5000);
 
       // 使用刚指定的配置项和数据显示图表。
       myChart.setOption(option);
