@@ -1031,15 +1031,18 @@ body {
     writing-mode: tb;
     color: #fff;
     font-size: 24px;
+    font-family: "隶书";
+    font-weight: 300;
     position: absolute;
-    top: 50%;
+    top: 45%;
     transform: translateY(-450%);
     -ms-transform: translateY(-450%);
-    left: 30%;
+    left: 25%;
     transition: all 1s;
     transition-delay: .3s;
     -ms-writing-mode: tb;
-    width: 26px
+    width: 26px;
+    text-shadow: 1px 1px 2px rgb(44, 44, 44);
 }
 
 .index-sec2 li .p2 {
